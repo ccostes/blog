@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "2015-1-4-Hello World!"
+title: "Hello World!"
 published: true
 ---
 
-###  Hi there!
+####  Hi there!
 My name is Chris, and I'm a developer that loves building things and learning how stuff works. I spend a lot of my time working on embedded real-time applications, but do anything from web development to assembly bootloader hacking, depending on the task at hand.
 
 I've been telling myself that I need to put up a blog for longer than I care to admit, but after many attempts that I was never quite happy with, I think I've finally found a nifty setup that Just Works&trade;. 
