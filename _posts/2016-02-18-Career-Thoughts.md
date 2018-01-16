@@ -6,6 +6,8 @@ published: true
 
 In March I'll be celebrating two years of working in the professional world. I've grown a lot and, upon reflection, have identified three distinct stages of personal development that I've gone though in that time. While I have certainly learned a great deal, in a way it feels like I have more questions now than when I started, the biggest one being: where do I go from here? Before I get into that, though, I'll give a quick recap of the path that got me where I am today.
 
+<!--more-->
+
 ### Stage One: Acclimation
 The first six months to a year were a period of acclimation to working in "the real world." I've had paid internships during summers since my sophomore year of High School, so I had some idea of what being a professional software developer was like. There are plenty of differences being a salaried employee vs. an intern, but in the beginning it felt much the same. I was given problems to solve and spent my time solving them, learning our codebase and the basics of our business along the way. It all felt very familiar, and the familiarity lulled me into a false sense that "This is all there is to it."
 
