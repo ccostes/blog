@@ -9,7 +9,7 @@ I'd been interested in screen printing for a while, and a friend's upcoming wedd
 
 My printing setup is shown below, and it's certainly not what you would call professional. Creating the screen was surprisingly simple once you have the right materials. I bought one of those beginner screenprinting kits, so it came with everything I needed to create the screen using the photoresist method. The idea is that you coat the screen with a light-sensitive pigment, cover it with a transparency of the design, and shine a light on it for a while. The uncovered pigment reacts with the light and turns hard, while the pigment under the transparency stays un-cured and is easily washed away.
 
-{% include image.html name="setup@0,3x.jpg" caption="Screenprinting Setup" %}
+{% include image.html name="setup@0,3x.jpg" url="/assets/posts/screenprint/setup@0,3x.jpg" caption="Screenprinting Setup" %}
 
 <!--more-->
 

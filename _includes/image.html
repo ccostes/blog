@@ -7,7 +7,11 @@
 {% assign fileName = page.path | split: '/' | last | split: '.' | first %}
 {% assign fileNameDate = fileName | truncate: 14 | replace: '...', '' %}
 {% assign postSlug = fileName | replace_first: fileNameDate, '' %}
+{% if postSlug == '' %}
+{% assign assetPath = include.url %}
+{% else %}
 {% assign assetPath = postSlug | prepend: '/assets/posts/' | append: '/' | append: include.name %}
+{% endif %}
 {% assign extension = assetPath | split: '.' | last %}
 
 <figure class="figure {% if include.caption %}figure--caption{% endif %} {% if frame %}figure--frame{% endif %}">
